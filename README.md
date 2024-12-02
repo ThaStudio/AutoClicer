@@ -6,4 +6,4 @@ First, open CMD and type `python (AutoClicer.py system path)` and open it, press
 
 Example :
 - Open CMD
-- python C:\Users\{USERNAME}\Desktop\AutoClicer.py
+- python C:\Users\{USERNAME}\{Desktop-Documents}\AutoClicer.py
